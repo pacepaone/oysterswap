@@ -1,0 +1,16 @@
+{
+  "short_name": "OysterSwap",
+  "name": "OysterSwap",
+  "description": "Farm OYSTER with OysterSwap LP Tokens",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
